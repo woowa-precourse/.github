@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" alt="Weather Outfit" width="150px">
+<img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/logo.png" width="120">
 
 # 🌤️ 날씨의 코디 👕
 **우아한테크코스 openCourse: 제한 협업 미션**
@@ -46,13 +46,27 @@
 </br>   
 	
 # 📱 서비스 화면
-</br>    
 
-</div>
+| 옷 페이지 (clothes) | 코디 페이지 (cody) |
+|---------------------|---------------------|
+| <img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/clothes.jpg" width="200"> | <img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/cody.jpg" width="200"> |
+
+| 코디 추가 페이지 (codyadd) | 코디 상세 페이지 (codydetail) |
+|----------------------------|-------------------------------|
+| <img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/codyadd.jpg" width="200"> | <img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/codydetail.jpg" width="200"> |
+
+| 날씨별 옷 추천 페이지 (home) | 날씨 지역 선택 페이지 (region) |
+|-----------------------------|-------------------------------|
+| <img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/home.jpg" width="200"> | <img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/region.jpg" width="200"> |
+
+
 
 ## 📌 주요 기능
 
 1. 지역별 날씨 연동
+   
+<img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Atmosphere.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Clear.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Clouds.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Rain.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Snow.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Thunderstorm.png" width="150">
+
   - Weather API를 활용해 내 위치의 현재 기온을 메인 화면에 크게 표시
 	- 기온에 따라 사용자 맞춤 코디 자동 추천
 
