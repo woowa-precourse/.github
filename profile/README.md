@@ -114,7 +114,7 @@
 	
 ## 💫 시스템 아키텍처
 
-<img src="" alt="시스템 아키텍처" width="80%">
+<img width="1039" height="483" alt="Image" src="https://github.com/user-attachments/assets/91af1723-ee3d-4d8e-969e-bfa3e7d1475b" />
 
 </div>  
 
