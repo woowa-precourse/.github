@@ -67,12 +67,11 @@
    
 <img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Atmosphere.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Clear.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Clouds.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Rain.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Snow.png" width="150"><img src="https://raw.githubusercontent.com/woowa-precourse/woowa-android/main/images/Thunderstorm.png" width="150">
 
-  - Weather API를 활용해 내 위치의 현재 기온을 메인 화면에 크게 표시
+  - Weather API를 활용해 내 위치의 현재 기온을 메인 화면에 표시
 	- 기온에 따라 사용자 맞춤 코디 자동 추천
 
 2. 내 옷장 관리
   - 사용자가 옷을 직접 촬영해 앱에 등록
-	- 이미지 업로드 시 자동 누끼 제거 기능으로 배경을 제거한 상태로 저장
 	- 옷 등록 과정에서 사용자 정의 카테고리 선택
 
 4. 코디 조합 기능
@@ -82,9 +81,6 @@
 5. 기온 기반 코디 추천
   - 메인 페이지에서 오늘 기온에 맞는 코디 목록 자동 출력
 	- 사용자가 실제 보유한 옷으로 구성되어 현실성 높은 추천 제공
-
-## ✨ 기술 특이점
-  - 
 
 <br/>   
 <br/>   
@@ -150,9 +146,6 @@
 <img width="847" height="472" alt="Image" src="https://github.com/user-attachments/assets/aca3dbf1-d42e-4dfb-8e06-780ecbed841e" />
 <!-- <img width="100%" alt="erd" src="https://github.com/user-attachments/assets/9de9eeba-8fba-4930-a9a1-8b2b3bfc3844" ><br> -->
 </div>
-
-## ✨ 추후 고도화 
-- 
 
 <br/>   
  
